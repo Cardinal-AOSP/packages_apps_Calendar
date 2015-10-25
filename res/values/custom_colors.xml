@@ -17,6 +17,6 @@
 <resources>
 
     <!-- Adaptive icon background layer color -->
-    <color name="ic_launcher_calendar_background">#2196f3</color>
+    <color name="ic_launcher_calendar_background">#3F51B5</color>
 
 </resources>
