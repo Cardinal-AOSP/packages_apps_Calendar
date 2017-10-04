@@ -17,7 +17,7 @@
 <resources>
 
     <!-- Adaptive icon background layer color -->
-    <color name="ic_launcher_calendar_background">#795548</color>
+    <color name="ic_launcher_calendar_background">@color/primary_color</color>
 
     <color name="accent">#FF9800</color>
     <color name="primary_color">#795548</color>
